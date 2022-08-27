@@ -1,0 +1,14 @@
+C:\Users\guine\source\repos\Target.TestePratico\Target.Repository\obj\Debug\Target.Repository.csproj.AssemblyReference.cache
+C:\Users\guine\source\repos\Target.TestePratico\Target.Repository\obj\Debug\Target.Repository.csproj.SuggestedBindingRedirects.cache
+C:\Users\guine\source\repos\Target.TestePratico\Target.Repository\obj\Debug\Target.Repository.csproj.CoreCompileInputs.cache
+C:\Users\guine\source\repos\Target.TestePratico\Target.Repository\bin\Debug\BancoDeDadosLocal.mdf
+C:\Users\guine\source\repos\Target.TestePratico\Target.Repository\bin\Debug\BancoDeDadosLocal_log.ldf
+C:\Users\guine\source\repos\Target.TestePratico\Target.Repository\bin\Debug\Target.Repository.exe.config
+C:\Users\guine\source\repos\Target.TestePratico\Target.Repository\bin\Debug\Target.Repository.exe
+C:\Users\guine\source\repos\Target.TestePratico\Target.Repository\bin\Debug\Target.Repository.pdb
+C:\Users\guine\source\repos\Target.TestePratico\Target.Repository\bin\Debug\Target.Domain.exe
+C:\Users\guine\source\repos\Target.TestePratico\Target.Repository\bin\Debug\Target.Domain.pdb
+C:\Users\guine\source\repos\Target.TestePratico\Target.Repository\bin\Debug\Target.Domain.exe.config
+C:\Users\guine\source\repos\Target.TestePratico\Target.Repository\obj\Debug\Target.Repository.csproj.CopyComplete
+C:\Users\guine\source\repos\Target.TestePratico\Target.Repository\obj\Debug\Target.Repository.exe
+C:\Users\guine\source\repos\Target.TestePratico\Target.Repository\obj\Debug\Target.Repository.pdb

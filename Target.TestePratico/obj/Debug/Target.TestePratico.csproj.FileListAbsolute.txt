@@ -1,0 +1,8 @@
+C:\Users\guine\source\repos\Target.TestePratico\Target.TestePratico\bin\Debug\Target.TestePratico.exe.config
+C:\Users\guine\source\repos\Target.TestePratico\Target.TestePratico\bin\Debug\Target.TestePratico.exe
+C:\Users\guine\source\repos\Target.TestePratico\Target.TestePratico\bin\Debug\Target.TestePratico.pdb
+C:\Users\guine\source\repos\Target.TestePratico\Target.TestePratico\obj\Debug\Target.TestePratico.csproj.AssemblyReference.cache
+C:\Users\guine\source\repos\Target.TestePratico\Target.TestePratico\obj\Debug\Target.TestePratico.csproj.SuggestedBindingRedirects.cache
+C:\Users\guine\source\repos\Target.TestePratico\Target.TestePratico\obj\Debug\Target.TestePratico.csproj.CoreCompileInputs.cache
+C:\Users\guine\source\repos\Target.TestePratico\Target.TestePratico\obj\Debug\Target.TestePratico.exe
+C:\Users\guine\source\repos\Target.TestePratico\Target.TestePratico\obj\Debug\Target.TestePratico.pdb
