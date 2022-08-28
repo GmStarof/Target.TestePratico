@@ -21,7 +21,7 @@ Você conseguirar fazer todas as solicitações sem nescessidade de qualquer out
 Decisões tomadas
 ================
 
-- Optei por criar um sistema onde existe uma classe de pessoas, um repositório onde as funções são feitas e um Service onde são chamados as funções que estão no repositorio.
+- Optei por usar o c#, onde eu criei um sistema onde existe uma classe de pessoas chamado Domain, um repositório onde as funções são feitas e um Service onde são chamados as funções que estão no repositorio.
 - Optei por criar um banco de dados local do próprio vs para ter uma agilidade na entrega do teste.
-- Também fiz um outro projeto sem o banco de dados no programa, sendo assim todos os itens estavam sendo salvos na propiá memoria do vs.
+- Também fiz um outro projeto sem o banco de dados no programa, sendo assim todos os itens estavam sendo salvos na propiá memoria do vs. Se quiserem, posso enviar tbm.
 - Devido a um bug no meu vs e pouco tempo para resolução, não consegui utilizar a API que indicaram, peço desculpas por essa parte.
